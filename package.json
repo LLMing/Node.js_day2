@@ -1,0 +1,23 @@
+{
+  "name": "day2",
+  "version": "0.0.1",
+  "description": "testDemo",
+  "main": "01_webStromTest.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bar": "^0.0.1",
+    "simple-timeago": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "Demo"
+  ],
+  "author": "LLMing",
+  "license": "ISC"
+}
